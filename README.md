@@ -1,1 +1,2 @@
 # Tetris
+Tetris was a computer game that became popular worldwide from the late 1980s to the early 1990s. It was the ancestor of drop off puzzle games and one of the representative works in the field of electronic games. It was the first entertainment software released by the Soviet Union in the United States. This game was first released on June 6, 1984, when he was working at the Computer Center of the Soviet Academy of Sciences.
